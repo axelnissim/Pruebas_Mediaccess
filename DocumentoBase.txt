@@ -2,6 +2,15 @@ Hola, mi nombre es Axel Nissim.
 
 code fragment
 PRIMER TEXT
+<<<<<<< HEAD
 Cualquier Cosa
 
 <? PHP  ECHO "HOLA MI NOMBRE ES JESSICA";?>
+=======
+Cualquier Cosa  /*aqui Gerry*/ FEN-51
+
+/*aqui Gerry*/ FEN-51
+fdsdsfdsff
+/*aqui Gerry*/ FEN-51
+FEN-51FEN-51FEN-51FEN-51
+>>>>>>> origin/FEN-51_Branch
