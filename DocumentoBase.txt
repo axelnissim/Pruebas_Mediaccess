@@ -2,4 +2,8 @@ Hola, mi nombre es Axel Nissim.
 
 code fragment
 PRIMER TEXT
-Cualquier Cosa
+Cualquier Cosa  /*aqui Gerry*/
+
+/*aqui Gerry*/
+fdsdsfdsff
+/*aqui Gerry*/
