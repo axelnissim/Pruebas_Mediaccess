@@ -1,5 +1,10 @@
 Hola, mi nombre es Axel Nissim.
 
 code fragment
+<<<<<<< HEAD
 PRIMER TEXTO
 Segundo Texto
+=======
+PRIMER TEXT
+Cualquier Cosa
+>>>>>>> d3bf72c6e0e928eff97d223c0a72dcedc2e3587c
